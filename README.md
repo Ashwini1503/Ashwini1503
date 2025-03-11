@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Ashwini Pawar  
 ### 🌟 Data Analyst  
 
-🔍 Passionate about **data and insights**  
+🔍 Passionate about - **Data and Insights**  
 
 - 🌱 I'm currently learning **Power BI**, **MySQL**, **Python**, and **Excel**  
 - 📫 How to reach me: [bhairatashwini@gmail.com](mailto:bhairatashwini@gmail.com)  
