@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hi there 👋, I'm Ashwini 
+### 🌟 Data Analyst  
 
-<!--
-**Ashwini1503/Ashwini1503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 Passionate about **data and insights**  
 
-Here are some ideas to get you started:
+- 🌱 I'm currently learning: **Power BI, Python, SQL, Excel**  
+- 📫 How to reach me: [bhairatashwini@gmail.com](mailto:bhairatashwini@gmail.com)  
+- 🎯 Fun fact: **A Production Engineer Turned to Data Analyst**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💼 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ashwinipawar1503)  
+
+---
+
+### 🛠️ Languages and Tools:
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=microsoft-sql-server&logoColor=white)  
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=power-bi&logoColor=black)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
+
+---
+
+### 🧠 Other Skills:
+- 🚀 Problem-solving  
+- 📊 Data Visualization  
+- 🎬 Filmora (Video Editing)  
+- 📈 Google Analytics  
+
+---
+
+⭐️ *Feel free to explore my repositories and connect with me!*  
+
+---
+
