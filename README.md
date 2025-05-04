@@ -5,7 +5,7 @@
 
 - 🌱 I'm currently learning **Power BI**, **MySQL**, **Python**, and **Excel**  
 - 📫 How to reach me: [bhairatashwini@gmail.com](mailto:bhairatashwini@gmail.com)  
-- 🎯 Fun fact: **An EdTech YouTuber Turned to Data Analyst**  
+- 🎯 Fun fact: **An EdTech YouTuber (with 4Lakh+ Subscribers) Turned to Data Analyst**  
 
 
 ### 💼 Connect with me:
@@ -18,13 +18,15 @@
 ![MySQL](https://img.shields.io/badge/MySQL-025E8C?style=flat&logo=mysql&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=power-bi&logoColor=black)  
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)
+
 
 
 ### 🧠 Other Skills:
 - 🚀 Problem-solving  
 - 📊 Data Visualization  
 - 🎬 Filmora (Video Editing)  
-- 📈 Google Analytics  
+- 📈 Google and YouTube Analytics  
 
 
 ⭐️ *Feel free to explore my repositories and connect with me!*  
