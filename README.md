@@ -5,7 +5,7 @@
 
 - 🌱 I'm currently learning **Power BI**, **MySQL**, **Python**, and **Excel**  
 - 📫 How to reach me: [bhairatashwini@gmail.com](mailto:bhairatashwini@gmail.com)  
-- 🎯 Fun fact: **A Production Engineer Turned to Data Analyst**  
+- 🎯 Fun fact: **An EdTech YouTuber Turned to Data Analyst**  
 
 
 ### 💼 Connect with me:
