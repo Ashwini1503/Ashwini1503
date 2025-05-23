@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Ashwini Pawar  
+## Hi there! 👋, I'm Ashwini Pawar  
 ### 🌟 Data Analyst  
 
 🔍 Passionate about - **Data and Insights**  
