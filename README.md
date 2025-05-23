@@ -20,6 +20,11 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)
 
+## Projects
+
+- [Business Insights 360](https://www.linkedin.com/feed/update/urn:li:activity:7298590161620131840/): An analysis project providing comprehensive insights into business operations.
+- [AtliQ Sales and Marketing Analysis by SQL](https://www.linkedin.com/posts/ashwinipawar1503_growthmindset-sqlskills-dataanalytics-activity-7330838037150502912-iemo?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFI3Gs0BvN7j4U2znRIBW8OIvDXkCFpuSx4): Analyzed AtliQ Hardwares’ consumer goods dataset by answering ten+ ad hoc business queries using SQL to support data-driven insights
+- [Excel Sales And Finance Analysis](https://www.linkedin.com/posts/ashwinipawar1503_dataanalytics-businessintelligence-salesanalysis-activity-7248920256751038465-TFSP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFI3Gs0BvN7j4U2znRIBW8OIvDXkCFpuSx4): Performed advanced ETL and data modeling on AtliQ Hardwares’ sales data using Excel to generate P&L reports, track KPIs, and drive improvements in net sales and gross margins.
 
 
 ### 🧠 Other Skills:
